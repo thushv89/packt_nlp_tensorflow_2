@@ -1,6 +1,6 @@
-# [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action?utm_source=thushv&utm_medium=affiliate&utm_campaign=book_ganegedara_tensorflow_10_13_20&a_aid=thushv&a_bid=a9e673f5)
+# [NLP with TensorFlow 2.0 - Edition 2](https://www.packtpub.com/product/natural-language-processing-with-tensorflow/9781788478311)
 
-This project is the code repository for [NLP TensorFlow 2.0]().
+This project is the code repository for [NLP with TensorFlow 2.0 - Edition 2]().
 
 ## Prerequisites (If you want GPU support)
 
