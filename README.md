@@ -2,7 +2,7 @@
 <img src="cover.png" height="356px" align="center">
 Copyright © 2022 Packt Publishing, Thushan Ganegedara
 
-<br />This project is the code repository for [NLP with TensorFlow 2.0 - Edition 2]().
+<br />This project is the code repository for Natural Language Processing with TensorFlow, Second Edition.
 
 ## Getting Started
 
